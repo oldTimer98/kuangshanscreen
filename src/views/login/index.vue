@@ -48,7 +48,7 @@
       <el-button :loading="loading" type="primary" style="width:100%;margin-top:40px;" @click.native.prevent="handleLogin">登录</el-button>
 
     </el-form>
-    <div style="position: fixed;left: 0;right: 0;bottom: 30px;text-align: center;color: #888482;font-size: 12px;">
+    <!-- <div style="position: fixed;left: 0;right: 0;bottom: 30px;text-align: center;color: #888482;font-size: 12px;">
 
       <span>
         版权单位：安徽云矿工程技术有限公司
@@ -57,7 +57,7 @@
       <span>
         版本: 1.0
       </span>
-    </div>
+    </div> -->
     <el-dialog title="Or connect with" :visible.sync="showDialog">
       Can not be simulated on local, so please combine you own business simulation! ! !
       <br>
