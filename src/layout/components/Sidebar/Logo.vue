@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: '数字矿山管理系统',
+      title: '客户管理系统',
       logo: logo
     }
   }

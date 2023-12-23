@@ -1,5 +1,5 @@
 module.exports = {
-  title: '数字矿山管理系统',
+  title: '客户管理系统',
 
   /**
    * @type {boolean} true | false

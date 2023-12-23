@@ -2,7 +2,7 @@
   <div class="login-container">
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" autocomplete="on" label-position="left">
       <div class="title-container">
-        <h3 class="title"><span style="position: relative;top: -2px;">数字矿山管理系统</span> </h3>
+        <h3 class="title"><span style="position: relative;top: -2px;">客户管理系统</span> </h3>
       </div>
       <el-form-item prop="username" style="background-color: #283443;">
         <span class="svg-container">
