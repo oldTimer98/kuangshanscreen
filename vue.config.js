@@ -43,7 +43,7 @@ module.exports = {
       "/api": {
         // 目标服务器地址
         // target: "http://localhost:8188",
-        target: "http://139.196.228.66:8078", // http://139.196.228.66:8078",
+        target: "http://110.41.177.164:8076",
         changeOrigin: true, // 开启代理服务器，
         pathRewrite: {
           "^/min": "",
